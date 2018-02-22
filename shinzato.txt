@@ -1,2 +1,3 @@
 I’m shinzato.
 Hello, world.
+Branch issueB
