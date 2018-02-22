@@ -1,3 +1,4 @@
 I’m shinzato.
 Hello, world.
 branch issueA.
+Branch issueB
